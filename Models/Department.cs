@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Employee
+public class Department
 {
 
 }
